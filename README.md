@@ -6,7 +6,9 @@
 
 🌱 i'm learning python, r, sql
 
-✨ all of my projects will be available on https://thelatinatech.github.io ✨
+📝 typically writing about being a woman, latina, and first gen college student in tech.
+
+✨ all of my projects will eventually be available on https://thelatinatech.github.io ✨
 
 
 <!---
