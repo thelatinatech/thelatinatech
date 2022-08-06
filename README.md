@@ -1,8 +1,10 @@
-✌️ hola, I’m @thelatinatech
+✌️ hola, i’m @thelatinatech
 
-🌱 currently studying cybersecurity @ uarizona
+🎓 m.s. in cybersecurity (currently in progress) & b.s. in management information systems
 
 👩‍💻 current job: intelligence analyst @ crowdstrike
+
+🌱 i'm learning python, r, sql
 
 ✨ all of my projects will be available on https://thelatinatech.github.io ✨
 
