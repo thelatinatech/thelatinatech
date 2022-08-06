@@ -2,7 +2,7 @@
 
 🎓 m.s. in cybersecurity (currently in progress) & b.s. in management information systems
 
-👩‍💻 current job: intelligence analyst @ crowdstrike
+👩‍💻 current: intelligence analyst intern ; former: it business operations analyst
 
 🌱 i'm learning python, r, sql
 
