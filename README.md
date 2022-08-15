@@ -6,11 +6,6 @@
 
 🌱 i'm learning python, r, sql
 
-📝 typically writing about being a woman, latina, and first gen college student in tech.
-
-✨ all of my projects will eventually be available on https://thelatinatech.github.io ✨
-
-
 <!---
 thelatinatech/thelatinatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
