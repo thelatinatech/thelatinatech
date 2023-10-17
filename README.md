@@ -1,10 +1,13 @@
-✌️ hola, i’m @thelatinatech
+✌️ Hola, I’m @thelatinatech
 
-🎓 m.s. in cybersecurity (currently in progress) & b.s. in management information systems
+👩🏻‍💻 I'm an intelligence analyst with 2 years of cyber experience. I've also got 6 years of experience working at a Fortune 100 in business operations, vendor management, and data analytics.
 
-👩‍💻 current: intelligence analyst
+🎓 Cybersecurity - Information Systems, Systems Industrial Engineering, Electrical Computer Engineering
+🎓 Management Information Systems, Global Business, and Spanish.
 
-🌱 i'm learning python
+✍🏼 In my free time, I create content and blog over on [Instagram](https://instagram.com/thelatinatech/) and [Medium](https://thelatinatech.medium.com/).
+
+[![My Skills](https://skillicons.dev/icons?i=linux,py,postgres,r)](https://skillicons.dev)
 
 <!---
 thelatinatech/thelatinatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
