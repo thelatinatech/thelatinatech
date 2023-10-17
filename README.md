@@ -2,8 +2,9 @@
 
 👩🏻‍💻 I'm an intelligence analyst with 2 years of cyber experience. I've also got 6 years of experience working at a Fortune 100 in business operations, vendor management, and data analytics.
 
-🎓 Cybersecurity - Information Systems, Systems Industrial Engineering, Electrical Computer Engineering
-🎓 Management Information Systems, Global Business, and Spanish.
+🎓 M.S. Cybersecurity - Information Systems, Systems Industrial Engineering, Electrical Computer Engineering
+
+🎓 B.S. Management Information Systems, Global Business, and Spanish.
 
 ✍🏼 In my free time, I create content and blog over on [Instagram](https://instagram.com/thelatinatech/) and [Medium](https://thelatinatech.medium.com/).
 
