@@ -1,16 +1,20 @@
-✌️ Hola, I’m @thelatinatech
+### A little about me... 
 
-👩🏻‍💻 I'm an intelligence analyst with 2 years of cyber experience. I've also got 6 years of experience working at a Fortune 100 in business operations, vendor management, and data analytics.
+* **Technical focus** - Linux 🐧 Python 🐍 R ✨ MySQL
+* **What I do for work** - I work as an Intelligence Analyst developing customer priority intelligence requirements and managing internal tags for FINTEL reports.
+* **Non-technical** -  Blogging ✍️ Video Editing 📹 Video Games 🎮 Drawing 👩‍🎨 
 
-🎓 M.S. Cybersecurity - Information Systems, Systems Industrial Engineering, Electrical Computer Engineering
+<!---Blog posts that might be of interest from [trstringer.com](https://trstringer.com)...
 
-🎓 B.S. Management Information Systems, Global Business, and Spanish.
+* [20 Questions a Software Engineer Should Ask When Joining a New Team](https://trstringer.com/20-questions-for-new-software-team/)
+* [Simple vs Oneshot - Choosing a systemd Service Type](https://trstringer.com/simple-vs-oneshot-systemd-service/)
+* [Create a Quick and Easy Prometheus Exporter](https://trstringer.com/quick-and-easy-prometheus-exporter/)
+* [Create a Basic Kubernetes Mutating Webhook](https://trstringer.com/kubernetes-mutating-webhook/)
 
-✍🏼 In my free time, I create content and blog over on [Instagram](https://instagram.com/thelatinatech/) and [Medium](https://thelatinatech.medium.com/).
-
-[![My Skills](https://skillicons.dev/icons?i=linux,py,postgres,r)](https://skillicons.dev)
+--->
 
 <!---
 thelatinatech/thelatinatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---* **What I did before for work** - I worked as a business and data analyst at a Fortune 100 company for 5 years. Primarily focused on owning long-term projects and delivering data insights on Business Operations, Service Management, Software Licensing, and Vendor Management for an IT organization over 7K people..--->
