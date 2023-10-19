@@ -1,6 +1,6 @@
 ### A little about me... 
 
-* **Technical focus** - Linux 🐧 Python 🐍 R ✨ MySQL
+* **Technical focus** -Linux 🐧 Python 🐍 R ✨ MySQL 💾 Excel 📊 Tableau
 * **What I do for work** - I work as an Intelligence Analyst developing customer priority intelligence requirements and managing internal tags for FINTEL reports.
 * **Non-technical** -  Blogging ✍️ Video Editing 📹 Video Games 🎮 Drawing 👩‍🎨 
 
